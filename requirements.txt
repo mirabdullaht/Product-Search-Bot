@@ -1,0 +1,5 @@
+streamlit==1.12.0
+Langchain==0.0.1
+# Faais==0.0.1
+# dotenv==0.0.5
+sqlalchemy==1.4.7
